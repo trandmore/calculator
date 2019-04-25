@@ -1,4 +1,4 @@
-package com.trandmore.calculator;
+package com.juht.calculator;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
